@@ -1,4 +1,5 @@
-package com.unsta.flight;
+package com.unsta.flight; 
+Seguime Luquitas
 
 import java.util.Scanner;
 
